@@ -7,8 +7,8 @@ version: 2
 
 # Personal info
 name: Francesco Spinnato
-title: Ph.D. Candidate, Researcher
-email: francesco.spinnato@sns.it
+title: Ph.D.
+email: francesco.spinnato@di.unipi.it
 website: https://github.com/fspinna/
 
 # Dark Mode (true/false/never)
@@ -48,7 +48,7 @@ orcid_username: 0000-0002-3203-6716
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a Ph.D. candidate in Data Science at Scuola Normale Superiore, and a researcher at the University of Pisa. 
+  I am a Research Fellow at University of Pisa with a Ph.D. in Data Science from Scuola Normale Superiore. 
   My research focus is on explainable AI for sequential data, in particular on interpreting black-box models for univariate and multivariate time series. 
   In 2017, I received my B.S. degree in Economics and Management at the University of Padua, Italy, and in 2020 my M.S. degree in Data Science at the University of Pisa, Italy.
 
