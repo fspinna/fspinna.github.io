@@ -1,2 +1,6 @@
 # Ignore build output
 _site/
+.roo/
+.tweet-cache/
+# macOS system files
+.DS_Store
