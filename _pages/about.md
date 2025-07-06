@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href="mailto:francesco.spinnato@di.unipi.it">francesco.spinnato@di.unipi.it</a></p>
-    <p>Room 382</p>
+    <p>Department of Computer Science, Room 382</p>
     <p>Building C, Second Floor, Largo Bruno Pontecorvo, 3</p>
     <p>Pisa (PI), 56127, Italy</p>
 
@@ -32,8 +32,8 @@ latest_posts:
 
 I am a Research Fellow at the University of Pisa and a member of the Knowledge Discovery and Data Mining Laboratory (KDD Lab), a joint research initiative of the ISTI Institute of CNR, the Department of Computer Science of the University of Pisa, and Scuola Normale Superiore.
 
-My research focuses on explainable AI for sequential data, particularly on interpreting black-box models for univariate and multivariate time series. I have active international collaborations in the field of interpretable machine learning and contribute to several European-funded projects, including SoBigData++ and HumanE-AI-Net, where I work on the development of transparent and human-centered AI systems.
-
+My research focuses on explainable AI for sequential data, particularly on interpreting black-box models for univariate and multivariate time series. 
 I am currently involved in the [MIMOSA project](https://fismimosa.github.io/), which aims to extract interpretable and ethically responsible predictive models by leveraging advanced techniques such as Deep Learning, Evolutionary Algorithms, and Quantum-Inspired Machine Learning.
+I have active international collaborations in the field of interpretable machine learning and contribute to several European-funded projects, including SoBigData++ and HumanE-AI-Net, where I work on the development of transparent and human-centered AI systems.
 
 I received my Ph.D. in Data Science from Scuola Normale Superiore in 2024. I hold an M.S. in Data Science (2020) from the University of Pisa and a B.S. in Economics and Management (2017) from the University of Padua.
