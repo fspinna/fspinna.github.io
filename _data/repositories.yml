@@ -1,0 +1,10 @@
+github_users:
+  - fspinna
+
+repo_description_lines_max: 2
+
+github_repos:
+  - fspinna/pyrregular
+  - fspinna/lasts
+  - fspinna/hydra-lsf-launcher
+  - fspinna/borf

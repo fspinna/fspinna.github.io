@@ -1,0 +1,98 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Francesco Spinnato
+    - name: Email
+      value: francesco.spinnato@di.unipi.it
+    - name: Position
+      value: Research Fellow at the University of Pisa
+    - name: Location
+      value: "Largo Bruno Pontecorvo, 3, Pisa, Italy"
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Fellow
+      institution: University of Pisa, Pisa, Italy
+      year: 2024 - present
+      description:
+        - "Explainable Artificial Intelligence for sequential data: design and analysis of XAI tools for tasks such as classification, regression, and forecasting of time series."
+    - title: Research Associate
+      institution: KDDLab, ISTI-CNR, Pisa, Italy
+      year: 2021 - present
+      description:
+        - "Developing interpretable AI methods for sequential data."
+    - title: Research Scholarship
+      institution: University of Pisa, Pisa, Italy
+      year: 2020
+      description:
+        - "Research on explanation methods for time series classification."
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Data Science
+      institution: Scuola Normale Superiore, Pisa, Italy
+      year: 2020 - 2024
+      description:
+        - "Explanation Methods for Sequential Data Models"
+    - title: "Master's in Data Science and Business Informatics"
+      institution: University of Pisa, Pisa, Italy
+      year: 2017 - 2020
+      description:
+        - "A Model Agnostic Local Explainer for Time Series Black-Box Classifiers"
+    - title: "Bachelor's in Economics and Management"
+      institution: University of Padova, Padova, Italy
+      year: 2007 - 2010
+      description:
+        - "Stima indiretta del PIL mensile italiano: procedure statistiche e primi risultati"
+
+- title: Periods Abroad
+  type: time_table
+  contents:
+    - title: Visiting Ph.D. Student
+      institution: Courant Institute of Mathematics, NYU, New York, USA
+      year: 2023 - 2024
+      description:
+        - "Developing XAI approaches for sequential data at Visualization Imaging and Data Analysis Center (VIDA)."
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Teaching Assistant
+      institution: Master in Big Data Analytics and Artificial Intelligence for Society, University of Pisa
+      year: 2025
+      description:
+        - "Data Mining and Machine Learning."
+    - title: Teaching Assistant
+      institution: Master in Big Data Analytics and Artificial Intelligence for Society, University of Pisa
+      year: 2024
+      description:
+        - "Data Mining and Machine Learning."
+    - title: Teaching Assistant
+      institution: Data Science and Business Informatics, University of Pisa
+      year: 2023
+      description:
+        - "Data Mining 2: Advanced Topics and Applications."
+    - title: Teaching Assistant
+      institution: Data Science and Business Informatics, University of Pisa
+      year: 2022
+      description:
+        - "Data Mining 1: Fundamentals."
+    - title: Teaching Assistant
+      institution: Data Science and Business Informatics, University of Pisa
+      year: 2021
+      description:
+        - "Laboratory for Data Science."
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - title: Socint G-Research National Prize
+      institution: Senato della Repubblica, Rome, Italy
+      year: 2024
+      description:
+        - "Best PhD thesis in quantitative subjects: Explanation Methods for Sequential Data Models"
+
+
