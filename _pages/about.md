@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Affiliations: University of Pisa, ISTI CNR."
+subtitle: 
 
 profile:
   align: right
@@ -30,7 +30,7 @@ latest_posts:
 
 
 
-I am an Research Fellow at the University of Pisa and a member of the Knowledge Discovery and Data Mining Laboratory (KDD Lab), a joint research initiative of the ISTI Institute of CNR, the Department of Computer Science of the University of Pisa, and Scuola Normale Superiore.
+I am a Research Fellow at the University of Pisa and a member of the Knowledge Discovery and Data Mining Laboratory (KDD Lab), a joint research initiative of the ISTI Institute of CNR, the Department of Computer Science of the University of Pisa, and Scuola Normale Superiore.
 
 My research focuses on explainable AI for sequential data, particularly on interpreting black-box models for univariate and multivariate time series. I have active international collaborations in the field of interpretable machine learning and contribute to several European-funded projects, including SoBigData++ and HumanE-AI-Net, where I work on the development of transparent and human-centered AI systems.
 
