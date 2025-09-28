@@ -4,18 +4,23 @@
     - name: Full Name
       value: Francesco Spinnato
     - name: Email
-      value: francesco.spinnato@di.unipi.it
+      value: francesco.spinnato@unipi.it
     - name: Position
-      value: Research Fellow at the University of Pisa
+      value: Assistant Professor (RTD-A) at the University of Pisa
     - name: Location
       value: "Largo Bruno Pontecorvo, 3, Pisa, Italy"
 
 - title: Experience
   type: time_table
   contents:
+    - title: Assistant Professor (RTD-A)
+      institution: University of Pisa, Pisa, Italy
+      year: 2025 - PRESENT
+      description:
+        - "Study and development of methodologies and algorithms for interpretable decision-making models that respect ethical aspects, creation of a general-purpose hierarchy implementing these methodologies, and their adaptation to real case studies, with a focus on time series."
     - title: Research Fellow
       institution: University of Pisa, Pisa, Italy
-      year: 2024 - present
+      year: 2024 - 2025
       description:
         - "Explainable Artificial Intelligence for sequential data: design and analysis of XAI tools for tasks such as classification, regression, and forecasting of time series."
     - title: Research Associate
@@ -60,6 +65,11 @@
 - title: Teaching
   type: time_table
   contents:
+    - title: Lecturer
+      institution: Master's Degree in Biotechnologies and Applied Artificial Intelligence for Health, University of Pisa
+      year: 2025/2026
+      description:
+      - "Artificial Intelligence II."
     - title: Teaching Assistant
       institution: Master in Big Data Analytics and Artificial Intelligence for Society, University of Pisa
       year: 2025
