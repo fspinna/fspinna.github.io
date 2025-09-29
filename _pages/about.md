@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href="mailto:francesco.spinnato@di.unipi.it">francesco.spinnato@di.unipi.it</a></p>
-    <p>Department of Computer Science, Room 382</p>
+    <p><a href="mailto:francesco.spinnato@unipi.it">francesco.spinnato@unipi.it</a></p>
+    <p>Department of Computer Science, Room 291</p>
     <p>Building C, Second Floor, Largo Bruno Pontecorvo, 3</p>
     <p>Pisa (PI), 56127, Italy</p>
 
@@ -30,7 +30,7 @@ latest_posts:
 
 
 
-I am a Research Fellow at the University of Pisa and a member of the Knowledge Discovery and Data Mining Laboratory (KDD Lab), a joint research initiative of the ISTI Institute of CNR, the Department of Computer Science of the University of Pisa, and Scuola Normale Superiore.
+I am an Assistant Professor (RTD-A) at the University of Pisa and a member of the Knowledge Discovery and Data Mining Laboratory (KDD Lab), a joint research initiative of the ISTI Institute of CNR, the Department of Computer Science of the University of Pisa, and Scuola Normale Superiore.
 
 My research focuses on explainable AI for sequential data, particularly on interpreting black-box models for univariate and multivariate time series. 
 I am currently involved in the [MIMOSA project](https://fismimosa.github.io/), which aims to extract interpretable and ethically responsible predictive models by leveraging advanced techniques such as Deep Learning, Evolutionary Algorithms, and Quantum-Inspired Machine Learning.
