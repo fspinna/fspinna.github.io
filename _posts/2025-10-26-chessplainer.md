@@ -140,7 +140,7 @@ Possible future work include ablating coalition of pieces instead of single ones
 
 
 
-You can find the code in the github repo: [https://github.com/fspinna/chessplainer](https://github.com/fspinna/chessplainer), and the full article.
+You can find the code in the github repo: [https://github.com/fspinna/chessplainer](https://github.com/fspinna/chessplainer), and the full article or arxiv.
 
 ```bibtex
 @misc{spinnato2025piecebypieceexplanationschesspositions,
