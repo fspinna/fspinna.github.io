@@ -1,0 +1,26 @@
+---
+layout: page
+---
+<div class="table-responsive">
+  <table class="table table-sm table-borderless course-info">
+    {% for field in site.data.course_fields %}
+      {% assign value = page[field.key] %}
+      {% if value != nil and value != empty %}
+        <tr>
+          <th scope="row" style="white-space: nowrap">{{ field.label }}</th>
+          <td>
+            {% if field.type == 'link' %}
+              <a href="{{ value }}">{{ field.link_text | default: value }}</a>
+            {% elsif field.type == 'bool' %}
+              {% if value %}Yes{% else %}No{% endif %}
+            {% else %}
+              {{ value }}
+            {% endif %}
+          </td>
+        </tr>
+      {% endif %}
+    {% endfor %}
+  </table>
+</div>
+
+{{ content }}

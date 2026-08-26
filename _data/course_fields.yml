@@ -1,0 +1,52 @@
+# Fields rendered as the info table on course pages (_layouts/course.liquid).
+# Only fields present in a course's front matter are shown, in this order.
+# type: link -> rendered as a hyperlink (use link_text for the label)
+# type: bool -> rendered as Yes/No
+
+- key: programme
+  label: Programme
+- key: programme_type
+  label: Degree
+- key: tracks
+  label: Tracks
+- key: institution
+  label: Institution
+- key: academic_year
+  label: Academic year
+- key: course_year
+  label: Year of course
+- key: period
+  label: Period
+- key: timetable
+  label: Timetable
+- key: hours
+  label: Hours
+- key: credits
+  label: Credits
+- key: language
+  label: Language
+- key: level
+  label: Level
+- key: exam
+  label: Exam
+- key: ssd
+  label: Scientific sector
+- key: location
+  label: Location
+- key: lecturers
+  label: Lecturers
+- key: role
+  label: Role
+- key: email
+  label: Contact
+- key: circleu
+  label: Open to CircleU students
+  type: bool
+- key: catalogue
+  label: Official page
+  type: link
+  link_text: course catalogue
+- key: teams
+  label: Teams channel
+  type: link
+  link_text: join the channel
