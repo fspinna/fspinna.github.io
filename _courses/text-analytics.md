@@ -15,9 +15,19 @@ catalogue: https://unipi.coursecatalogue.cineca.it/corsi/2025/11357/insegnamenti
 teams: https://teams.microsoft.com/l/team/19%3Acagvp-6xvRzcQyd7PtKpGtnds57FQ7TylfkzPL6OPXI1%40thread.tacv2/conversations?groupId=6e932436-b69d-48f6-8a7a-477f5256706e&tenantId=c7456b31-a220-47f5-be52-473828670aa1
 ---
 
+***
 
 ## Lectures
 
 | Date | Lecture | Slides  | Code   | Sources |
 | ---- | ------- | ------- | ------ | ------- |
 | 18/09/2026 | Course Introduction | [Course Logistics](/assets/courses/text-analytics/slides/00_course_intro.pdf) · [Introduction to Text Analytics](/assets/courses/text-analytics/slides/01_Introduction.pdf) | [Python Basics](/assets/courses/text-analytics/notebooks/01_Python_basics.ipynb) | |
+
+***
+
+## Exam
+Take a look at the [Course Logistics](/assets/courses/text-analytics/slides/00_course_intro.pdf) slides for the exam modalities.
+
+Some examples of old written exams: 
+- [2026-07-17](/assets/courses/text-analytics/documents/TXA_17-07_2526.pdf)
+- [2026-09-04](/assets/courses/text-analytics/documents/TXA_4_09_2526.pdf)
