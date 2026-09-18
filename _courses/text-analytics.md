@@ -18,6 +18,6 @@ teams: https://teams.microsoft.com/l/team/19%3Acagvp-6xvRzcQyd7PtKpGtnds57FQ7Tyl
 
 ## Lectures
 
-| Date | Lecture | Slides / Code | Sources |
-| ---- | ------- | ------------- | ------- |
-| 18/09/2026 | Course Introduction | [Course Logistics](/assets/courses/text-analytics/slides/00_course_intro.pdf) · [Introduction to Text Analytics](/assets/courses/text-analytics/slides/01_Introduction.pdf) | |
+| Date | Lecture | Slides  | Code   | Sources |
+| ---- | ------- | ------- | ------ | ------- |
+| 18/09/2026 | Course Introduction | [Course Logistics](/assets/courses/text-analytics/slides/00_course_intro.pdf) · [Introduction to Text Analytics](/assets/courses/text-analytics/slides/01_Introduction.pdf) | [Python Basics](/assets/courses/text-analytics/notebooks/01_Python_basics.ipynb) | |
