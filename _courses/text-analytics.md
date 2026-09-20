@@ -22,6 +22,7 @@ teams: https://teams.microsoft.com/l/team/19%3Acagvp-6xvRzcQyd7PtKpGtnds57FQ7Tyl
 | Date | Lecture | Slides  | Code   | Sources |
 | ---- | ------- | ------- | ------ | ------- |
 | 18/09/2026 | Course Introduction | [Course Logistics](/assets/courses/text-analytics/slides/00_course_intro.pdf) · [Introduction to Text Analytics](/assets/courses/text-analytics/slides/01_Introduction.pdf) | [Python Basics](/assets/courses/text-analytics/notebooks/01_Python_basics.ipynb) | |
+| 20/09/2026 | Text Processing and Linguistic Analysis | [Slides](/assets/courses/text-analytics/slides/02_text_processing_and_linguistic_analysis.pdf) | | [J&M Ch. 2.1-2.8](https://web.stanford.edu/~jurafsky/slp3/2.pdf) · [J&M Ch. 5.1](https://web.stanford.edu/~jurafsky/slp3/5.pdf) [J&M Ch. 18.1-18.3, 18.6, 18.7](https://web.stanford.edu/~jurafsky/slp3/18.pdf) · [J&M Ch. 19.1, 19.2](https://web.stanford.edu/~jurafsky/slp3/19.pdf) · [J&M Ch. 20.1](https://web.stanford.edu/~jurafsky/slp3/20.pdf)
 
 ***
 
