@@ -23,15 +23,35 @@ hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
-table {
+table:not(.table) {
+  border-collapse: collapse;
+  border: 1px solid var(--global-divider-color);
+
   td,
   th {
     font-size: 1rem;
-    padding: 1px 1rem 1px 0;
+    padding: 0.4rem 1rem 0.4rem 0.5rem;
+    border-bottom: 1px solid var(--global-divider-color);
   }
 
   th {
     font-weight: bold;
+    background-color: color-mix(in srgb, var(--global-text-color) 10%, transparent);
+  }
+
+  tbody tr:nth-child(even) {
+    background-color: color-mix(in srgb, var(--global-text-color) 5%, transparent);
+  }
+}
+
+// The cv/resume section has its own compact table style; keep it untouched.
+.cv table:not(.table) {
+  border: none;
+
+  td,
+  th {
+    background-color: transparent;
+    border-bottom: none;
   }
 }
 
