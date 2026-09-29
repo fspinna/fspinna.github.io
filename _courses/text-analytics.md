@@ -35,3 +35,9 @@ Take a look at the [Course Logistics](/assets/courses/text-analytics/slides/00_c
 Some examples of old written exams: 
 - [2026-07-17](/assets/courses/text-analytics/documents/TXA_17-07_2526.pdf)
 - [2026-09-04](/assets/courses/text-analytics/documents/TXA_4_09_2526.pdf)
+
+
+***
+
+## Office Hours
+Book a slot here https://calendar.app.google/ofu8kq27RbTiUnun7, or write me an email or Teams message.
