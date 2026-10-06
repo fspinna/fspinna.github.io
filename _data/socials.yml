@@ -29,8 +29,8 @@ linkedin_username: francesco-spinnato # your LinkedIn user name
 # research_gate_profile: # your profile on ResearchGate
 # rss_icon: true # set to true to show the RSS icon
 scholar_userid: Mw4YQjwAAAAJ # your Google Scholar ID
-# orcid_id: 0000-0002-3203-6716 # your ORCID ID
-# dblp_url: https://dblp.org/pid/283/6726.html # your DBLP profile url
+orcid_id: 0000-0002-3203-6716 # your ORCID ID
+dblp_url: https://dblp.org/pid/283/6726.html # your DBLP profile url
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id

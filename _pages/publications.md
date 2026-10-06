@@ -4,6 +4,7 @@ permalink: /publications/
 title: publications
 description: 
 nav: false
+sitemap: false
 nav_order: 2
 ---
 

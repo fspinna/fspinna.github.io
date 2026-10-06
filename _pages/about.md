@@ -1,6 +1,7 @@
 ---
 layout: about
 title: about
+seo_title: "Francesco Spinnato: Explainable AI for Time Series, University of Pisa"
 permalink: /
 subtitle: 
 

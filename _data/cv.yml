@@ -66,6 +66,16 @@
   type: time_table
   contents:
     - title: Lecturer
+      institution: Master's Degree in Data Science and Business Informatics, University of Pisa
+      year: 2026/2027
+      description:
+      - "Text Analytics."
+    - title: Lecturer
+      institution: Ph.D. in AI for Society, University of Pisa
+      year: 2025/2026
+      description:
+      - "Predictive Models for Time Series Analysis (with Riccardo Guidotti)."
+    - title: Lecturer
       institution: Master's Degree in Biotechnologies and Applied Artificial Intelligence for Health, University of Pisa
       year: 2025/2026
       description:
