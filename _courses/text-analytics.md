@@ -33,6 +33,10 @@ teams: https://teams.microsoft.com/l/team/19%3Acagvp-6xvRzcQyd7PtKpGtnds57FQ7Tyl
 | 28/09/2026 | Probabilistic Language Models and Collocations (1)| · [Probabilistic Language Models and Collocations](/assets/courses/text-analytics/slides/04_probabilistic_language_models.pdf) | · [Notebook: Probabilistic Language Models and Collocations](/assets/courses/text-analytics/notebooks/05_Probabilistic_Language_Models_and_Collocations.ipynb) | · [J&M Ch. 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf)<br>· [Stanford CS109 pg. 33-61](https://chrispiech.github.io/probabilityForComputerScientists/en/ProbabilityForComputerScientists.pdf)
 | 02/10/2026 | Probabilistic Language Models and Collocations (2) | | |  · [Manning & Schütze Ch. 5](https://nlp.stanford.edu/fsnlp/promo/colloc.pdf)<br>· [J&M App. J](https://web.stanford.edu/~jurafsky/slp3/J.pdf)<br>· [Word association norms, mutual information, and lexicography](https://aclanthology.org/J90-1003.pdf)
 | 05/10/2026 | Representing Text and Information Retrieval | · [Representing Text and Information Retrieval](/assets/courses/text-analytics/slides/06_representing_text_and_information_retrieval.pdf) | · [Notebook: Representing Text](/assets/courses/text-analytics/notebooks/06_Representing_Text.ipynb) |  · [J&M Ch. 5.2-5.5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)<br>· [J&M Ch. 11.1.1-11.1.4](https://web.stanford.edu/~jurafsky/slp3/11.pdf)
+| 09/10/2026 | Machine Learning for Text Analytics (1) | · [Machine Learning Learning for Text Analytics (1)](/assets/courses/text-analytics/slides/07_machine_learning_for_text_analytics_1.pdf) | · [Notebook: Machine Learning Learning for Text Analytics (1)](/assets/courses/text-analytics/notebooks/07_Supervised_Learning.ipynb) |  · [J&M Ch. 4.1-4.4](https://web.stanford.edu/~jurafsky/slp3/4.pdf)<br> · [J&M Ch. B.1-B.6](https://web.stanford.edu/~jurafsky/slp3/B.pdf)<br> · [J&M Ch. 23.1-23.3](https://web.stanford.edu/~jurafsky/slp3/23.pdf)<br> · [Weisberg Ch. 2](https://www.stat.purdue.edu/~qfsong/teaching/525/book/Weisberg-Applied-Linear-Regression-Wiley.pdf) <br> ·  [Kumar Ch. 4](https://www-users.cse.umn.edu/~kumar001/dmbook/ch4.pdf )
+
+
+
 
 ***
 
