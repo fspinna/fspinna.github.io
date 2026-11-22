@@ -44,8 +44,8 @@ teams: https://teams.microsoft.com/l/team/19%3Acagvp-6xvRzcQyd7PtKpGtnds57FQ7Tyl
 | ~~09/11/2026~~ | Lecture canceled due to suspension of classes   | |  | 
 | 13/11/2026 | How to Train your Neural Network | · [How to Train your Neural Network](/assets/courses/text-analytics/slides/14_training_nn.pdf) | · [Notebook: How to Train your Neural Network](/assets/courses/text-analytics/notebooks/14_MLP_Training.ipynb) <br> · [Data: How to Train your Neural Network](/assets/courses/text-analytics/notebooks/14_MLP_Training.zip) | · [J&M Ch. 6.6](https://web.stanford.edu/~jurafsky/slp3/6.pdf) <br> · [Goodfellow Ch. 4.3,6.3,6.5,8.1.3,8.2](https://www.deeplearningbook.org)  <br> · [Goodfellow Ch. 6.2-6.4,7.1,7.8,7.12,8.3-8.7](https://www.deeplearningbook.org)  
 | 16/11/2026 | Static Embeddings | · [Static Embeddings](/assets/courses/text-analytics/slides/15_static_embeddings.pdf) | · [Notebook: Static Embeddings](/assets/courses/text-analytics/notebooks/15_Static_Embeddings.ipynb)  | · [J&M Ch. 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
-
-
+| ~~20/10/2026~~ | Lecture canceled due to potential disruptions caused by the general strike  | |  | 
+| 23/11/2026 | Recurrent Neural Networks | · [Recurrent Neural Networks](/assets/courses/text-analytics/slides/16_recurrent_neural_networks.pdf) | · [Notebook: Recurrent Neural Networks](/assets/courses/text-analytics/notebooks/16_Recurrent_Networks.ipynb)  <br> · [Data: Recurrent Neural Networks](/assets/courses/text-analytics/notebooks/16_Recurrent_Networks.zip)  | · [J&M Ch. 14](https://web.stanford.edu/~jurafsky/slp3/14.pdf)
 
 
 
