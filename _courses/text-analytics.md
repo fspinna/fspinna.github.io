@@ -44,8 +44,15 @@ teams: https://teams.microsoft.com/l/team/19%3Acagvp-6xvRzcQyd7PtKpGtnds57FQ7Tyl
 | ~~09/11/2026~~ | Lecture canceled due to suspension of classes   | |  | 
 | 13/11/2026 | How to Train your Neural Network | · [How to Train your Neural Network](/assets/courses/text-analytics/slides/14_training_nn.pdf) | · [Notebook: How to Train your Neural Network](/assets/courses/text-analytics/notebooks/14_MLP_Training.ipynb) <br> · [Data: How to Train your Neural Network](/assets/courses/text-analytics/notebooks/14_MLP_Training.zip) | · [J&M Ch. 6.6](https://web.stanford.edu/~jurafsky/slp3/6.pdf) <br> · [Goodfellow Ch. 4.3,6.3,6.5,8.1.3,8.2](https://www.deeplearningbook.org)  <br> · [Goodfellow Ch. 6.2-6.4,7.1,7.8,7.12,8.3-8.7](https://www.deeplearningbook.org)  
 | 16/11/2026 | Static Embeddings | · [Static Embeddings](/assets/courses/text-analytics/slides/15_static_embeddings.pdf) | · [Notebook: Static Embeddings](/assets/courses/text-analytics/notebooks/15_Static_Embeddings.ipynb)  | · [J&M Ch. 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
-| ~~20/10/2026~~ | Lecture canceled due to potential disruptions caused by the general strike  | |  | 
+| ~~20/11/2026~~ | Lecture canceled due to potential disruptions caused by the general strike  | |  | 
 | 23/11/2026 | Recurrent Neural Networks | · [Recurrent Neural Networks](/assets/courses/text-analytics/slides/16_recurrent_neural_networks.pdf) | · [Notebook: Recurrent Neural Networks](/assets/courses/text-analytics/notebooks/16_Recurrent_Networks.ipynb)  <br> · [Data: Recurrent Neural Networks](/assets/courses/text-analytics/notebooks/16_Recurrent_Networks.zip)  | · [J&M Ch. 14](https://web.stanford.edu/~jurafsky/slp3/14.pdf)
+| 26/11/2026 | Attention and Transformers | · [Attention and Transformers](/assets/courses/text-analytics/slides/17_attention_and_transformers.pdf) | | · [J&M Ch. 14.7-14.8](https://web.stanford.edu/~jurafsky/slp3/14.pdf)<br>· [J&M Ch. 7.1-7.4](https://web.stanford.edu/~jurafsky/slp3/7.pdf)<br>· [Zhang et al., Dive into Deep Learning: Attention Mechanisms and Transformers](https://d2l.ai/chapter_attention-mechanisms-and-transformers/index.html)
+| 27/11/2026 | Pre-training and Adapting Transformers | | | · [J&M Ch. 9](https://web.stanford.edu/~jurafsky/slp3/9.pdf)<br>· [Xiao & Zhu Ch. 1](https://arxiv.org/abs/2501.09223)
+| 30/11/2026 | Large Language Models | | | · [J&M Ch. 7.5-7.8](https://web.stanford.edu/~jurafsky/slp3/7.pdf)<br>· [J&M Ch. 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)<br>· [Xiao & Zhu Ch. 2-5](https://arxiv.org/abs/2501.09223)
+| 04/12/2026 | Text Analytics for Accessibility and Inclusion | | | 
+| 07/12/2026 | From LLMs to Agents | | | · [J&M Ch. 11](https://web.stanford.edu/~jurafsky/slp3/11.pdf)
+| 11/12/2026 | Seminar | | | 
+| 14/12/2026 | Q&A and Wrap-up | | | 
 
 
 
@@ -61,7 +68,7 @@ The exam can be taken in one of two ways.
 |---|---|---|
 | **Who** | Anyone | Attending students only |
 | **First part** | Written exam: 2 hours, no material allowed, typically 4 open questions | Group project: a paper (max 10 pages) + code, and a presentation |
-| **Oral exam** | Discussion of the written exam, plus questions and exercises on course topics | Discussion of the project, plus individual questions on course topics |
+| **Oral exam** | Discussion of the written exam, plus questions and exercises on course topics | 15' group presentation of the project, discussion of the project, plus individual questions on course topics |
 
 In the written modality, the grade of the written exam is the starting grade for the oral exam.
 
